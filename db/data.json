@@ -1,0 +1,26 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "Patagonia",
+      "country": "USA",
+      "carbonCredits": 1000,
+      "address": ""
+    },
+    {
+      "id": 2,
+      "name": "Natura",
+      "country": "Brazil",
+      "carbonCredits": 1000,
+      "address": ""
+    }
+  ],
+  "tokens": [],
+  "users": [
+    {
+      "id": 1,
+      "role": "ADMIN",
+      "address": ""
+    }
+  ]
+}
